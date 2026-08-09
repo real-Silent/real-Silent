@@ -4,17 +4,15 @@
 
 **Gorilla Tag and Gorilla Tag Copy modder**
 
-| Languages I know |
-|---| |---|
-| *C#* | | alot |
-| *C++* | | some |
-| *Typescript* | | some |
-| *Javascript* | | some |
+| Language | Level |
+|---|---|
+| C# | A lot |
+| C++ | Some |
+| TypeScript | Some |
+| JavaScript | Some |
 
-**Join my discord**
-https://novax.lol/d
+**Join my discord** — [novax.lol/d](https://novax.lol/d)
 
-**Visit my site**
-https://novax.lol
+**Visit my site** — [novax.lol](https://novax.lol)
 
 </div>
