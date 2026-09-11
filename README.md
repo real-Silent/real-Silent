@@ -11,6 +11,12 @@
 | TypeScript | Some |
 | JavaScript | Some |
 
+| Projects |
+|----------|
+| Arrakis |
+| Qolossal V4 |
+| JupiterX |
+
 **Join my discord** — [novax.lol/d](https://novax.lol/d)
 
 **Visit my site** — [novax.lol](https://novax.lol)
