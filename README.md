@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nova
+# Ashley (Nova or Silent)
 
 **Gorilla Tag and Gorilla Tag Copy modder**
 
@@ -14,7 +14,7 @@
 | Projects |
 |----------|
 | Arrakis |
-| Qolossal V4 |
+| Qolossal Cheat Menu V4 |
 | JupiterX |
 
 **Join my discord** — [novax.lol/d](https://novax.lol/d)
