@@ -23,10 +23,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-</div>
-
-<div align="center">
-
 | Language   | Proficiency        |
 |:----------:|:------------------:|
 | C#         | ●●●●● Advanced     |
@@ -42,16 +38,12 @@
 
 ### Projects
 
-</div>
-
-<div align="center">
-
 | Project | Description |
 |:-------:|:-----------:|
-| **Arrakis** | *One of the best free Gorilla Tag Mod Menus* |
-| **Qolossal Cheat Menu V4** | *The best paid Cheat Menu for Gorilla Tag Copys* |
-| **JupiterX** | *One of the best free Gorilla Tag copy Mod Menus* |
-| **Novax** | *One of the most unique Gorilla Tag copy Mod Menus* |
+| **Arrakis** | One of the best free Gorilla Tag Mod Menus |
+| **Qolossal Cheat Menu V4** | The best paid Cheat Menu for Gorilla Tag copies |
+| **JupiterX** | One of the best free Gorilla Tag copy Mod Menus |
+| **Novax** | One of the most unique Gorilla Tag copy Mod Menus |
 
 </div>
 
@@ -59,8 +51,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=real-Silent&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=real-Silent&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-Silent&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-Silent&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
