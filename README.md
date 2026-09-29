@@ -25,23 +25,35 @@
 
 </div>
 
+<div align="center">
+
 | Language   | Proficiency        |
-|:-----------|:-------------------|
+|:----------:|:------------------:|
 | C#         | ●●●●● Advanced     |
 | C++        | ●●●○○ Intermediate |
 | TypeScript | ●●○○○ Familiar     |
 | JavaScript | ●●○○○ Familiar     |
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Projects
 
+</div>
+
+<div align="center">
+
 | Project | Description |
-|:--------|:------------|
-| **Arrakis** | *your one-line description* |
-| **Qolossal Cheat Menu V4** | *your one-line description* |
-| **JupiterX** | *your one-line description* |
-| **Novax** | *your one-line description* |
+|:-------:|:-----------:|
+| **Arrakis** | *One of the best free Gorilla Tag Mod Menus* |
+| **Qolossal Cheat Menu V4** | *The best paid Cheat Menu for Gorilla Tag Copys* |
+| **JupiterX** | *One of the best free Gorilla Tag copy Mod Menus* |
+| **Novax** | *One of the most unique Gorilla Tag copy Mod Menus* |
+
+</div>
 
 ---
 
