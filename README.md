@@ -16,6 +16,7 @@
 | Arrakis |
 | Qolossal Cheat Menu V4 |
 | JupiterX |
+| Novax |
 
 **Join my discord** — [novax.lol/d](https://novax.lol/d)
 
